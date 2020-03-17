@@ -1,0 +1,4 @@
+C:\repos\Core5Shared\Core2\bin\Debug\netcoreapp3.1\Core2.exe
+C:\repos\Core5Shared\Core2\obj\Debug\netcoreapp3.1\Core2.csprojAssemblyReference.cache
+C:\repos\Core5Shared\Core2\obj\Debug\netcoreapp3.1\Core2.AssemblyInfoInputs.cache
+C:\repos\Core5Shared\Core2\obj\Debug\netcoreapp3.1\Core2.AssemblyInfo.cs

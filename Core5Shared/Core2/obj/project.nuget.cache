@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dMZhShgBeApKAsLC7RcxLH77nbhPBgHEBw87F9UuVgyCUgoxk6E3fxlE6phR5fpCGBPrAE8AJ2d/dLKxZn4rxg==",
+  "success": true,
+  "projectFilePath": "C:\\repos\\Core5Shared\\Core2\\Core2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arkalyan\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

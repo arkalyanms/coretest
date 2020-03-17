@@ -1,0 +1,6 @@
+C:\repos\Core5Shared\Core5Shared\bin\Debug\netcoreapp3.1\Core5Shared.exe
+C:\repos\Core5Shared\Core5Shared\obj\Debug\netcoreapp3.1\Core5Shared.csprojAssemblyReference.cache
+C:\repos\Core5Shared\Core5Shared\obj\Debug\netcoreapp3.1\Interop.Accessibility.dll
+C:\repos\Core5Shared\Core5Shared\obj\Debug\netcoreapp3.1\Core5Shared.csproj.ResolveComReference.cache
+C:\repos\Core5Shared\Core5Shared\obj\Debug\netcoreapp3.1\Core5Shared.AssemblyInfoInputs.cache
+C:\repos\Core5Shared\Core5Shared\obj\Debug\netcoreapp3.1\Core5Shared.AssemblyInfo.cs
