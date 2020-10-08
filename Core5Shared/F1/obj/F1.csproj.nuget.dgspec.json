@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repos\\Core5Shared\\F1\\F1.csproj": {}
+    "c:\\repos\\coretest\\Core5Shared\\F1\\F1.csproj": {}
   },
   "projects": {
-    "C:\\repos\\Core5Shared\\F1\\F1.csproj": {
+    "c:\\repos\\coretest\\Core5Shared\\F1\\F1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repos\\Core5Shared\\F1\\F1.csproj",
+        "projectUniqueName": "c:\\repos\\coretest\\Core5Shared\\F1\\F1.csproj",
         "projectName": "F1",
-        "projectPath": "C:\\repos\\Core5Shared\\F1\\F1.csproj",
+        "projectPath": "c:\\repos\\coretest\\Core5Shared\\F1\\F1.csproj",
         "packagesPath": "C:\\Users\\arkalyan\\.nuget\\packages\\",
-        "outputPath": "C:\\repos\\Core5Shared\\F1\\obj\\",
+        "outputPath": "c:\\repos\\coretest\\Core5Shared\\F1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -29,6 +29,7 @@
         },
         "frameworks": {
           "net472": {
+            "targetAlias": "net472",
             "projectReferences": {}
           }
         },
@@ -40,7 +41,8 @@
       },
       "frameworks": {
         "net472": {
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+          "targetAlias": "net472",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-rc.1.20452.10\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
