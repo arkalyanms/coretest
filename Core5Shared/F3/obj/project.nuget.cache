@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zX52AWkAKHsS4rE81hkw8CeBm6zXuLmhqJ5bXf2LsRGpGlWem9lXAJm5o+yYgDWdOx2lZ7NX2PLVp+YpPZS8mA==",
+  "dgSpecHash": "JZO2L9GImQQVYS7foT8WdXPTwNAzJot9U9c191gH3AtZzFNlzkafkTavj5ZXPqL8BuUXAQSfwPWXunWXbP2Fug==",
   "success": true,
-  "projectFilePath": "c:\\repos\\coretest\\Core5Shared\\F3\\F3.csproj",
+  "projectFilePath": "C:\\repos\\coretest\\Core5Shared\\F3\\F3.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

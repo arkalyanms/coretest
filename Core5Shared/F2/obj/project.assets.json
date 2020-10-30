@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\repos\\coretest\\Core5Shared\\F2\\F2.csproj",
+      "projectUniqueName": "C:\\repos\\coretest\\Core5Shared\\F2\\F2.csproj",
       "projectName": "F2",
-      "projectPath": "c:\\repos\\coretest\\Core5Shared\\F2\\F2.csproj",
+      "projectPath": "C:\\repos\\coretest\\Core5Shared\\F2\\F2.csproj",
       "packagesPath": "C:\\Users\\arkalyan\\.nuget\\packages\\",
-      "outputPath": "c:\\repos\\coretest\\Core5Shared\\F2\\obj\\",
+      "outputPath": "C:\\repos\\coretest\\Core5Shared\\F2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -50,7 +50,7 @@
     "frameworks": {
       "net472": {
         "targetAlias": "net472",
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-rc.1.20452.10\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-rc.2.20479.15\\RuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {

@@ -120,11 +120,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\repos\\coretest\\Core5Shared\\Core5Shared\\Core5Shared.csproj",
+      "projectUniqueName": "C:\\repos\\coretest\\Core5Shared\\Core5Shared\\Core5Shared.csproj",
       "projectName": "Core5Shared",
-      "projectPath": "c:\\repos\\coretest\\Core5Shared\\Core5Shared\\Core5Shared.csproj",
+      "projectPath": "C:\\repos\\coretest\\Core5Shared\\Core5Shared\\Core5Shared.csproj",
       "packagesPath": "C:\\Users\\arkalyan\\.nuget\\packages\\",
-      "outputPath": "c:\\repos\\coretest\\Core5Shared\\Core5Shared\\obj\\",
+      "outputPath": "C:\\repos\\coretest\\Core5Shared\\Core5Shared\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -144,11 +144,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "c:\\repos\\coretest\\Core5Shared\\Core2\\Core2.csproj": {
-              "projectPath": "c:\\repos\\coretest\\Core5Shared\\Core2\\Core2.csproj"
+            "C:\\repos\\coretest\\Core5Shared\\Core2\\Core2.csproj": {
+              "projectPath": "C:\\repos\\coretest\\Core5Shared\\Core2\\Core2.csproj"
             },
-            "c:\\repos\\coretest\\Core5Shared\\F1\\F1.csproj": {
-              "projectPath": "c:\\repos\\coretest\\Core5Shared\\F1\\F1.csproj"
+            "C:\\repos\\coretest\\Core5Shared\\F1\\F1.csproj": {
+              "projectPath": "C:\\repos\\coretest\\Core5Shared\\F1\\F1.csproj"
             }
           }
         }
@@ -183,7 +183,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-rc.1.20452.10\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-rc.2.20479.15\\RuntimeIdentifierGraph.json"
       }
     }
   },

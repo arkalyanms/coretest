@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hdKxMhhHt7Pv3r6gy+4qiAv6haPqDj1WeOuR3nINV1V65VDv7IcIscleckU/qB7qijDIKXmlq9nR1V902544yg==",
+  "dgSpecHash": "lNrggzZP0kDyVBG5027yVEL/gBffsMYsEpRGiMJ5cgQgly7NhZGXc+aHoY38WbNGEDf04VKWPxG227u6equ0FA==",
   "success": true,
-  "projectFilePath": "c:\\repos\\coretest\\Core5Shared\\Core2\\Core2.csproj",
+  "projectFilePath": "C:\\repos\\coretest\\Core5Shared\\Core2\\Core2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\arkalyan\\.nuget\\packages\\microsoft.io.redist\\4.7.0\\microsoft.io.redist.4.7.0.nupkg.sha512",
     "C:\\Users\\arkalyan\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"

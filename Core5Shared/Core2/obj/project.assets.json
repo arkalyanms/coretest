@@ -85,11 +85,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\repos\\coretest\\Core5Shared\\Core2\\Core2.csproj",
+      "projectUniqueName": "C:\\repos\\coretest\\Core5Shared\\Core2\\Core2.csproj",
       "projectName": "Core2",
-      "projectPath": "c:\\repos\\coretest\\Core5Shared\\Core2\\Core2.csproj",
+      "projectPath": "C:\\repos\\coretest\\Core5Shared\\Core2\\Core2.csproj",
       "packagesPath": "C:\\Users\\arkalyan\\.nuget\\packages\\",
-      "outputPath": "c:\\repos\\coretest\\Core5Shared\\Core2\\obj\\",
+      "outputPath": "C:\\repos\\coretest\\Core5Shared\\Core2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -145,7 +145,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-rc.1.20452.10\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-rc.2.20479.15\\RuntimeIdentifierGraph.json"
       }
     }
   },
