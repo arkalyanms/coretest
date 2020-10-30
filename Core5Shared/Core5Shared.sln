@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "F2", "F2\F2.csproj", "{C326
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "F3", "F3\F3.csproj", "{C13513AC-D65C-46F3-9038-1778E1CBF8EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "F1", "F1\F1.csproj", "{214ED4A2-383D-41AA-8595-B5E19BBB52C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "F1", "F1\F1.csproj", "{214ED4A2-383D-41AA-8595-B5E19BBB52C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Framework1", "Framework1\Framework1.csproj", "{8FEA0E3D-A812-4466-A1F7-08B08490F392}"
 EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
@@ -45,6 +47,10 @@ Global
 		{214ED4A2-383D-41AA-8595-B5E19BBB52C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{214ED4A2-383D-41AA-8595-B5E19BBB52C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{214ED4A2-383D-41AA-8595-B5E19BBB52C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FEA0E3D-A812-4466-A1F7-08B08490F392}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FEA0E3D-A812-4466-A1F7-08B08490F392}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FEA0E3D-A812-4466-A1F7-08B08490F392}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FEA0E3D-A812-4466-A1F7-08B08490F392}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
